@@ -17,6 +17,7 @@ wget -O - http://pkg.entware.net/binaries/armv7/installer/entware_install.sh | s
  * Swapfile 512MB swap (swap)
  * JFFS 1GB ext4 (/jffs)
  * Data 10.5GB ext4 (/tmp/mnt/sda4)
+ - Auto Mounted
 
 
 ### opkg packages installed:
