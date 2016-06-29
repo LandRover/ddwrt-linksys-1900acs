@@ -13,10 +13,10 @@ wget -O - http://pkg.entware.net/binaries/armv7/installer/entware_install.sh | s
 ```
 
 ### Partition (16GB MicroSD): [dd-wrt format guide](https://www.dd-wrt.com/wiki/index.php/How_to_-_Format_and_Partition_External_Storage_Device)
- * Optaware 3GB ext4
- * Swapfile 512MB swap
- * JFFS 1GB ext4
- * Data 10.5GB ext4
+ * Optaware 3GB ext4 (/opt)
+ * Swapfile 512MB swap (swap)
+ * JFFS 1GB ext4 (/jffs)
+ * Data 10.5GB ext4 (/tmp/mnt/sda4)
 
 
 ### opkg packages installed:
