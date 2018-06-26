@@ -6,8 +6,8 @@
  * FLASH: 128MB
 
 ### dd-wrt Firmware: 
- * `Firmware: DD-WRT v3.0-r36104 std`
- * URL: ftp://ftp.dd-wrt.com/betas/2018/06-10-2018-r36104/linksys-wrt1900acsv2/
+ * `Firmware: DD-WRT v3.0-r36168 std`
+ * URL: ftp://ftp.dd-wrt.com/betas/2018/06-20-2018-r36168/linksys-wrt1900acsv2/
 
 ### Install [entware-ng](https://github.com/Entware-ng/Entware-ng/wiki/Install-on-DD-WRT) for Arm7:
 ```
