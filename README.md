@@ -6,8 +6,8 @@
  * FLASH: 128MB
 
 ### dd-wrt Firmware: 
- * `Firmware: DD-WRT v3.0-r36168 std`
- * URL: ftp://ftp.dd-wrt.com/betas/2018/06-20-2018-r36168/linksys-wrt1900acsv2/
+ * `Firmware: DD-WRT v3.0-r36410 std`
+ * URL: ftp://ftp.dd-wrt.com/betas/2018/07-28-2018-r36410/linksys-wrt1900acsv2/
 
 ### Install [entware-ng](https://github.com/Entware-ng/Entware-ng/wiki/Install-on-DD-WRT) for Arm7:
 ```
@@ -29,5 +29,5 @@ opkg install iptraf net-tools-netstat screen wget ruby python iptraf mc htop nan
 * Packages space used: 75MB (/opt)
 
 ### Log:
- * Build: 28788 (14/01/2016)
- * Flash Date: 15/6/2016
+ * Build: 36410 (28/07/2018)
+ * Flash Date: 03/08/2018
